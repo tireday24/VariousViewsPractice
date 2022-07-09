@@ -14,6 +14,7 @@
 		81F12B182879535C00833BA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81F12B172879535C00833BA1 /* Assets.xcassets */; };
 		81F12B1B2879535C00833BA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81F12B192879535C00833BA1 /* LaunchScreen.storyboard */; };
 		81F12B23287966CF00833BA1 /* MelonAppViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F12B22287966CF00833BA1 /* MelonAppViewController.swift */; };
+		81F12B2528799FE700833BA1 /* KakaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F12B2428799FE700833BA1 /* KakaoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		81F12B1A2879535C00833BA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81F12B1C2879535C00833BA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81F12B22287966CF00833BA1 /* MelonAppViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelonAppViewController.swift; sourceTree = "<group>"; };
+		81F12B2428799FE700833BA1 /* KakaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KakaoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				81F12B102879535B00833BA1 /* SceneDelegate.swift */,
 				81F12B122879535B00833BA1 /* ViewController.swift */,
 				81F12B142879535B00833BA1 /* Main.storyboard */,
+				81F12B2428799FE700833BA1 /* KakaoViewController.swift */,
 				81F12B22287966CF00833BA1 /* MelonAppViewController.swift */,
 				81F12B172879535C00833BA1 /* Assets.xcassets */,
 				81F12B192879535C00833BA1 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				81F12B132879535B00833BA1 /* ViewController.swift in Sources */,
 				81F12B0F2879535B00833BA1 /* AppDelegate.swift in Sources */,
 				81F12B23287966CF00833BA1 /* MelonAppViewController.swift in Sources */,
+				81F12B2528799FE700833BA1 /* KakaoViewController.swift in Sources */,
 				81F12B112879535B00833BA1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
